@@ -13,7 +13,7 @@ dt = 0.001
 Nt = 2000
 
 r = np.linspace(0.1, Rmax, Nr)
-n = 2
+n = 3
 l = 0  
 
 V_eff = -1/r + l*(l+1)/(2*r**2)
